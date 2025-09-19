@@ -1,0 +1,13 @@
+{
+  "endpoints": {
+    "game": "https://cdn.espn.com/core/nfl/game?xhr=1&gameId={0}",
+    "schedule": "https://cdn.espn.com/core/nfl/schedule?xhr=1&year={0}&week={1}&seasontype={2}",
+    "teams": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{0}",
+    "depthchart": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/{0}/teams/{1}/depthcharts",
+    "season": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/{0}?lang=en&region=us",
+    "teamNews": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?team={0}",
+    "projections": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/{0}/teams/{1}/projection",
+    "standings": "https://cdn.espn.com/core/nfl/standings?xhr=1"
+  }
+}
+

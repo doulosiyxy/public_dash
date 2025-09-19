@@ -1,0 +1,83 @@
+#charts {
+    width: 100%;
+    height: auto;
+    padding: 5px 5px;
+    padding-bottom: 3rem;
+}
+
+* {
+     /*border: 1px solid black;*/
+}
+
+
+#history h1, .card h3  {
+    text-align: center;
+    color: var(--darkColor);
+}
+
+#charts h2 {
+    padding: 0px;
+    text-align: left;
+    color: inherit;
+    border-bottom: 1px dashed lightgray;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+}
+
+.card * {
+    /*border: 1px solid black;*/
+}
+
+.chart-row {
+    width: 100%;
+    padding: 0.7em 0.7em 1.3em 0.7em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 0.7em;
+    border-bottom: 1px dashed lightgray;
+}
+
+.card {
+    display: inherit;
+    justify-content: center; 
+    align-items: center; 
+    height: 300px;
+    position: relative;
+    border: 1px solid lightgray;
+    padding: 0.5em;
+    border-radius: 10px;
+    background-color: white;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+.card canvas {
+    width: 100%;
+    z-index: 10;
+}
+
+.chart-container {
+    height:190px;
+    min-width: 250px;
+    z-index: 1;
+}
+
+.card p {
+    text-align: center;
+    font-size: .7rem;
+    position: absolute;
+    top: 20%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.hist-table {
+    overflow-y: scroll;
+}
+
+.hist-table tr {
+    height: 2rem;
+}
+
+

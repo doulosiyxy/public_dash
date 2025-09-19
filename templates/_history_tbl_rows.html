@@ -1,0 +1,11 @@
+{% extends "_record.html" %}
+{% block rows %}
+{% for record in chart_data.records %}
+<tr>
+    <td><strong>{{ record[0] }}</strong></td>
+    <td>{{ record[1] }}</td>
+    <td>{{ record[2] }}</td>
+    <td>{{ record[3] }}%</td>
+</tr>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,16 @@
+<div class="player-wrapper">
+    <div class='grid-item player' onclick="selectPlayer(event)">
+        <div title="{alt} ({pos})" aria-label="{alt} ({pos})" id="{pos}" class='position {team-class}'
+            style='background: url({player-href}) no-repeat center; background-color: team-color;'>
+            <span class="pos" title="Position">{pos}</span>
+            <span class="name-wrapper">
+                <span class="jersey">{jersey}</span>
+                <span class="name">{name}</span>
+            </span>
+            <span class="status" title="Status ({status})">{status}</span>
+            <span class="weight" title="Weight">{weight}</span>
+            <span class="height" title="Height">{height}</span>
+            <span class="xp" title="Experience">{xp}yr</span>
+        </div>
+    </div>
+</div>

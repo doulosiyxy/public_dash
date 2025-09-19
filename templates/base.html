@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% block head %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title class="title">{% block title %}{% endblock %}NFL Predict</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/favicon.png">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    {% endblock %}
+</head>
+
+<body>
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a href="/">NFL PREDICT</a>
+            {% block nav %}
+            <a href="/dashboard">Home</a>
+            <a href="/history">History</a>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/logout">Logout</a>
+            <a href="javascript:void(0);" class="icon" onclick="changeNav()">
+                <i class="fa fa-bars"></i>
+            </a>
+            {% endblock %}
+        </div>
+    </header>
+
+    <div>
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+        {% block footer %}
+        <p>&copy; NFL PREDICT 2025</p>
+        {% endblock %}
+    </footer>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="/static/js/script.js"></script>
+</body>
+
+</html>

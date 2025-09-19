@@ -1,0 +1,2372 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "slug": "atlanta-falcons",
+      "location": "Atlanta",
+      "name": "Falcons",
+      "nickname": "Falcons",
+      "abbreviation": "ATL",
+      "displayName": "Atlanta Falcons",
+      "shortDisplayName": "Falcons",
+      "color": "a71930",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+      "record": "1-1",
+      "standingSummary": "2nd in NFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.57238,
+        "chanceToWinDivision": 0.189,
+        "projectedWins": 8.594,
+        "projectedLosses": 8.347
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall1.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          1
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall1.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          1
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall1.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          1
+        ],
+        [
+          "668677d7f1049",
+          "static/images/logosmall1.png",
+          "Falcons rookie defenders deliver big impact",
+          "Falcons rookie defenders Jalon Walker, James Pearce Jr., Xavier Watts and Billy Bowman Jr. delivered in Week 2, and are eager for more.",
+          "https://www.espn.com/nfl/story/_/id/46273628/atlanta-falcons-rookies-jalon-walker-xavier-watts",
+          1
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall1.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          1
+        ],
+        [
+          "aedc5979c01fc",
+          "static/images/logosmall1.png",
+          "J.J. McCarthy encore act sluggish as Vikings lose to Falcons",
+          "A week after authoring fourth-quarter heroics in a rousing Minnesota victory, Vikings quarterback J.J. McCarthy and the rest of the offense slogged through 60 mostly rough minutes in a 22-6 loss to the Atlanta Falcons on Sunday night at U.S. Bank Stadium.",
+          "https://www.espn.com/nfl/story/_/id/46266300/jj-mccarthy-encore-act-sluggish-vikings-lose-falcons",
+          1
+        ]
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "buffalo-bills",
+      "location": "Buffalo",
+      "name": "Bills",
+      "nickname": "Bills",
+      "abbreviation": "BUF",
+      "displayName": "Buffalo Bills",
+      "shortDisplayName": "Bills",
+      "color": "00338d",
+      "alternateColor": "d50a0a",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+      "record": "2-0",
+      "standingSummary": "1st in AFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.76694,
+        "chanceToWinDivision": 0.883,
+        "projectedWins": 11.963,
+        "projectedLosses": 4.993
+      },
+      "standings": [],
+      "news": [
+        [
+          "561b7afa33500",
+          "static/images/logosmall2.png",
+          "Bills' Josh Allen likely to wear visor Thursday to protect nose",
+          "Bills quarterback Josh Allen will \"probably\" wear a clear visor on his helmet to help protect his nose during the team's \"Thursday Night Football\" game against the Dolphins.",
+          "https://www.espn.com/nfl/story/_/id/46284343/bills-josh-allen-likely-wear-visor-thursday-protect-nose",
+          2
+        ],
+        [
+          "fc345c4044eda",
+          "static/images/logosmall2.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          2
+        ],
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall2.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          2
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall2.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          2
+        ],
+        [
+          "651cd2b840709",
+          "static/images/logosmall2.png",
+          "Bills defense bounces back with win over Jets",
+          "The performance of the Bills defense in Week 2 couldn't have been more of a 180 from Week 1.",
+          "https://www.espn.com/nfl/story/_/id/46269383/buffalo-bills-defense-bounces-back-win-new-york-jets-week-2",
+          2
+        ],
+        [
+          "20a35e0a70773",
+          "static/images/logosmall2.png",
+          "Eagles' petty posts aimed at Chiefs top NFL Week 2 trolls",
+          "The San Francisco 49ers also made sure to poke fun at the New Orleans Saints after winning on the road, leading Week 2's NFL trolls.",
+          "https://www.espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
+          2
+        ]
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "chicago-bears",
+      "location": "Chicago",
+      "name": "Bears",
+      "nickname": "Bears",
+      "abbreviation": "CHI",
+      "displayName": "Chicago Bears",
+      "shortDisplayName": "Bears",
+      "color": "0b1c3a",
+      "alternateColor": "e64100",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+      "record": "0-2",
+      "standingSummary": "4th in NFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.45782,
+        "chanceToWinDivision": 0.012,
+        "projectedWins": 6.374,
+        "projectedLosses": 10.57
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall3.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          3
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall3.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          3
+        ],
+        [
+          "acf217fda2bad",
+          "static/images/logosmall3.png",
+          "Bears encouraged by QB Caleb Williams' growth in Week 2 loss",
+          "Despite the blowout loss to the Lions, the Bears were encouraged with the \"significant growth\" QB Caleb Williams showed in the Week 2 game.",
+          "https://www.espn.com/nfl/story/_/id/46274532/bears-encouraged-qb-caleb-williams-growth-week-2-loss",
+          3
+        ],
+        [
+          "682aa087a1108",
+          "static/images/logosmall3.png",
+          "Sources: Pro Bowl Bears CB Jaylon Johnson (groin) out indefinitely",
+          "Chicago Bears Pro Bowl cornerback Jaylon Johnson is out indefinitely with a groin injury, sources told ESPN's Adam Schefter and Courtney Cronin on Monday.",
+          "https://www.espn.com/nfl/story/_/id/46271587/sources-pro-bowl-bears-cb-jaylon-johnson-groin-indefinitely",
+          3
+        ],
+        [
+          "c7c95ba1ed9ad",
+          "static/images/logosmall3.png",
+          "How much will the Bears miss Jaylon Johnson?",
+          "\"The Pat McAfee Show\" crew reacts to the news about Bears cornerback Jaylon Johnson being out indefinitely after sustaining a groin injury against the Lions.",
+          "https://www.espn.com/video/clip?id=46272246",
+          3
+        ],
+        [
+          "aedc5979c01fc",
+          "static/images/logosmall3.png",
+          "J.J. McCarthy encore act sluggish as Vikings lose to Falcons",
+          "A week after authoring fourth-quarter heroics in a rousing Minnesota victory, Vikings quarterback J.J. McCarthy and the rest of the offense slogged through 60 mostly rough minutes in a 22-6 loss to the Atlanta Falcons on Sunday night at U.S. Bank Stadium.",
+          "https://www.espn.com/nfl/story/_/id/46266300/jj-mccarthy-encore-act-sluggish-vikings-lose-falcons",
+          3
+        ]
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "cincinnati-bengals",
+      "location": "Cincinnati",
+      "name": "Bengals",
+      "nickname": "Bengals",
+      "abbreviation": "CIN",
+      "displayName": "Cincinnati Bengals",
+      "shortDisplayName": "Bengals",
+      "color": "fb4f14",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+      "record": "2-0",
+      "standingSummary": "1st in AFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.43372999999999995,
+        "chanceToWinDivision": 0.231,
+        "projectedWins": 9.323,
+        "projectedLosses": 7.624
+      },
+      "standings": [],
+      "news": [
+        [
+          "23b65847e684e",
+          "static/images/logosmall4.png",
+          "Bengals sign QBs Sean Clifford, Mike White to practice squad",
+          "The Bengals signed QBs Sean Clifford and Mike White to their practice squad.",
+          "https://www.espn.com/nfl/story/_/id/46280627/source-bengals-add-sean-clifford-mike-white-practice-squad",
+          4
+        ],
+        [
+          "c279b1d6830d1",
+          "static/images/logosmall4.png",
+          "Why Stephen A. wants Joe Burrow to stay with the Bengals",
+          "Stephen A. Smith explains why Joe Burrow should feel obligated to the Bengals franchise.",
+          "https://www.espn.com/video/clip?id=46281558",
+          4
+        ],
+        [
+          "c8ffdb1639e51",
+          "static/images/logosmall4.png",
+          "Is Joe Burrow on track to be next Andrew Luck?",
+          "Mike Greenberg and the \"Get Up\" crew break down the comparisons between Andrew Luck and Joe Burrow.",
+          "https://www.espn.com/video/clip?id=46279491",
+          4
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall4.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          4
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall4.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          4
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall4.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          4
+        ]
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "cleveland-browns",
+      "location": "Cleveland",
+      "name": "Browns",
+      "nickname": "Browns",
+      "abbreviation": "CLE",
+      "displayName": "Cleveland Browns",
+      "shortDisplayName": "Browns",
+      "color": "472a08",
+      "alternateColor": "ff3c00",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "record": "0-2",
+      "standingSummary": "4th in AFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.29918999999999996,
+        "chanceToWinDivision": 0.006,
+        "projectedWins": 5.886,
+        "projectedLosses": 11.062
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall5.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          5
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall5.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          5
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall5.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          5
+        ],
+        [
+          "1e31e1206bd7a",
+          "static/images/logosmall5.png",
+          "Tom Brady to play with NFL stars in Saudi flag football tourney",
+          "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\"",
+          "https://www.espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+          5
+        ],
+        [
+          "b31ce4e6be5df",
+          "static/images/logosmall5.png",
+          "Stephen A.: Shedeur wanted to play, not to be Lamar's backup",
+          "Stephen A. Smith reacts to reports of Shedeur Sanders not wanting to go to the Ravens to be a backup for Lamar Jackson.",
+          "https://www.espn.com/video/clip?id=46270547",
+          5
+        ],
+        [
+          "1b2f636668ba6",
+          "static/images/logosmall5.png",
+          "Jackson throws 4 TD passes, and the Ravens close strong in a 41-17 victory over the Browns",
+          "\u2014 The Baltimore Ravens finished this game better than they started it.",
+          "http://www.espn.com/nfl/recap?gameId=401772726",
+          5
+        ]
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "dallas-cowboys",
+      "location": "Dallas",
+      "name": "Cowboys",
+      "nickname": "Cowboys",
+      "abbreviation": "DAL",
+      "displayName": "Dallas Cowboys",
+      "shortDisplayName": "Cowboys",
+      "color": "002a5c",
+      "alternateColor": "b0b7bc",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+      "record": "1-1",
+      "standingSummary": "2nd in NFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.54582,
+        "chanceToWinDivision": 0.133,
+        "projectedWins": 8.423,
+        "projectedLosses": 8.519
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall6.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          6
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall6.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          6
+        ],
+        [
+          "a552d9d56efa4",
+          "static/images/logosmall6.png",
+          "Cowboys think Tyler Smith can be 'one of the greats'",
+          "Dallas put its money where its mouth is, making Smith the highest-paid interior offensive lineman in the NFL.",
+          "https://www.espn.com/nfl/story/_/id/46268846/nfl-dallas-cowboys-tyler-smith-contract-extension",
+          6
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall6.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          6
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall6.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          6
+        ],
+        [
+          "0d616ef318e3c",
+          "static/images/logosmall6.png",
+          "Jadeveon Clowney says he expects to make Cowboys debut Sunday",
+          "Jadeveon Clowney says he expects to make his Cowboys debut Sunday when Dallas visits the Bears.",
+          "https://www.espn.com/nfl/story/_/id/46274783/jadeveon-clowney-says-expects-make-cowboys-debut-sunday",
+          6
+        ]
+      ]
+    },
+    {
+      "id": "7",
+      "slug": "denver-broncos",
+      "location": "Denver",
+      "name": "Broncos",
+      "nickname": "Broncos",
+      "abbreviation": "DEN",
+      "displayName": "Denver Broncos",
+      "shortDisplayName": "Broncos",
+      "color": "0a2343",
+      "alternateColor": "fc4c02",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.44310000000000005,
+        "chanceToWinDivision": 0.212,
+        "projectedWins": 9.071,
+        "projectedLosses": 7.867
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall7.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          7
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall7.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          7
+        ],
+        [
+          "1e31e1206bd7a",
+          "static/images/logosmall7.png",
+          "Tom Brady to play with NFL stars in Saudi flag football tourney",
+          "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\"",
+          "https://www.espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+          7
+        ],
+        [
+          "250b9e6f134e3",
+          "static/images/logosmall7.png",
+          "Payton laments FG block attempt that led to leverage penalty",
+          "Broncos coach Sean Payton said game officials made \"the correct call\" on a Denver penalty during a 60-yard field goal attempt, a penalty that gave the Colts a second chance at the game winner on the last play of a 29-28 Broncos loss.",
+          "https://www.espn.com/nfl/story/_/id/46271837/payton-laments-fg-block-attempt-led-leverage-penalty",
+          7
+        ],
+        [
+          "68552ef28e187",
+          "static/images/logosmall7.png",
+          "Colts' Spencer Shrader nails winning FG after Broncos penalty",
+          "The Colts snagged a 29-28 victory after kicker Spencer Shrader converted a 45-yard field goal with no time remaining, but only after badly missing a 60-yard attempt that was negated by a Denver personal foul moments earlier.",
+          "https://www.espn.com/nfl/story/_/id/46265374/colts-spencer-shrader-nails-winning-fg-broncos-penalty",
+          7
+        ],
+        [
+          "bf9af06d889e6",
+          "static/images/logosmall7.png",
+          "NFL Week 2: Wild comeback wins for Cowboys, Colts, Bengals",
+          "Bill Barnwell sorts through fourth-quarter fireworks in Giants-Cowboys, Broncos-Colts and Jaguars-Bengals.",
+          "https://www.espn.com/nfl/story/_/id/46258571/2025-nfl-week-2-barnwell-comeback-wins-cowboys-bengals-colts-giants-jaguars-broncos",
+          7
+        ]
+      ]
+    },
+    {
+      "id": "8",
+      "slug": "detroit-lions",
+      "location": "Detroit",
+      "name": "Lions",
+      "nickname": "Lions",
+      "abbreviation": "DET",
+      "displayName": "Detroit Lions",
+      "shortDisplayName": "Lions",
+      "color": "0076b6",
+      "alternateColor": "bbbbbb",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "record": "1-1",
+      "standingSummary": "2nd in NFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.42769999999999997,
+        "chanceToWinDivision": 0.3,
+        "projectedWins": 10.02,
+        "projectedLosses": 6.928
+      },
+      "standings": [],
+      "news": [
+        [
+          "d6ddfdb9461be",
+          "static/images/logosmall8.png",
+          "MNF Trailer: Lions vs. Ravens",
+          "Get ready for \"Monday Night Football\" in Week 3, when the Lions travel to take on the Ravens.",
+          "https://www.espn.com/video/clip?id=46284107",
+          8
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall8.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          8
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall8.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          8
+        ],
+        [
+          "5e0d2b587d503",
+          "static/images/logosmall8.png",
+          "NFL Week 2 'Himmy' Award winner: Goff, Aubrey, Warner or Nabers",
+          "Brandon Aubrey won the fan-voted 'Himmy' Award for Week 2's top player over for Jared Goff, Fred Warner and Malik Nabers.",
+          "https://www.espn.com/nfl/story/_/id/46271588/himmy-awards-week-2-jared-goff-brandon-aubrey-fred-warner-malik-nabers",
+          8
+        ],
+        [
+          "22b82c295ccd1",
+          "static/images/logosmall8.png",
+          "NFL Week 2's quote quiz: From real answers to surprising sayings",
+          "The second week of the NFL season offered some bold quotes and forthright speakers. Put your knowledge to the test with our Week 2 quote quiz.",
+          "https://www.espn.com/nfl/story/_/id/46264405/who-said-nfl-week-2-2025-best-quotes-quiz",
+          8
+        ],
+        [
+          "84e80eac6498d",
+          "static/images/logosmall8.png",
+          "Why McAfee says the new-look Lions are back",
+          "\"The Pat McAfee Show\" crew reacts to the Lions' dominating win over the Bears and discusses whether their showing against the Packers was a false alarm.",
+          "https://www.espn.com/video/clip?id=46271641",
+          8
+        ]
+      ]
+    },
+    {
+      "id": "9",
+      "slug": "green-bay-packers",
+      "location": "Green Bay",
+      "name": "Packers",
+      "nickname": "Packers",
+      "abbreviation": "GB",
+      "displayName": "Green Bay Packers",
+      "shortDisplayName": "Packers",
+      "color": "204e32",
+      "alternateColor": "ffb612",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.70319,
+        "chanceToWinDivision": 0.63,
+        "projectedWins": 11.171,
+        "projectedLosses": 5.777
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall9.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          9
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall9.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          9
+        ],
+        [
+          "f8b4628ed4584",
+          "static/images/logosmall9.png",
+          "What Packers' Christian Watson extension means for ACL return",
+          "He's itching to get back on the field, but his recent contract extension means he has nothing to prove.",
+          "https://www.espn.com/nfl/story/_/id/46274582/nfl-green-bay-packers-christian-watson-acl-contract-extension",
+          9
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall9.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          9
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall9.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          9
+        ],
+        [
+          "a5b9b314cf467",
+          "static/images/logosmall9.png",
+          "Why Packers Tucker Kraft is 'going to have a big year'",
+          "After a promising 2024 season, Kraft had his first 100-yard game for the Packers on Thursday night.",
+          "https://www.espn.com/nfl/story/_/id/46261289/nfl-green-bay-packers-tucker-kraft",
+          9
+        ]
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "tennessee-titans",
+      "location": "Tennessee",
+      "name": "Titans",
+      "nickname": "Titans",
+      "abbreviation": "TEN",
+      "displayName": "Tennessee Titans",
+      "shortDisplayName": "Titans",
+      "color": "4b92db",
+      "alternateColor": "002a5c",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+      "record": "0-2",
+      "standingSummary": "3rd in AFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.34002,
+        "chanceToWinDivision": 0.017,
+        "projectedWins": 5.096,
+        "projectedLosses": 11.859
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall10.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          10
+        ],
+        [
+          "41f438b0b2ca2",
+          "static/images/logosmall10.png",
+          "Titans won't cut Ward loose until run game improves",
+          "The Titans are having trouble protecting their prized QB but believe a better run game will help cure many of their ills.",
+          "https://www.espn.com/nfl/story/_/id/46272479/tennessee-titans-cam-ward-running-game-tony-pollard",
+          10
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall10.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          10
+        ],
+        [
+          "600096eb9f76a",
+          "static/images/logosmall10.png",
+          "Matthew Stafford throws 2 TDs as Rams spoil home opener for Titans and Cam Ward",
+          "\u2014 The Los Angeles Rams know how efficient they can be on offense. They clicked into high gear Sunday when they had to, scoring 20 straight points to spoil rookie Cam Ward's NFL home opener.",
+          "http://www.espn.com/nfl/recap?gameId=401772724",
+          10
+        ],
+        [
+          "b05ad2c0bb068",
+          "static/images/logosmall10.png",
+          "What are the longest field goals in NFL history?",
+          "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+          "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+          10
+        ],
+        [
+          "0af15f66b22ab",
+          "static/images/logosmall10.png",
+          "Rams vs. Titans: Week 2 NFL game highlights",
+          "Here's a look of the highlights from the Tennessee's matchup against Los Angeles.",
+          "https://www.espn.com/nfl/story/_/id/46218076/los-angeles-rams-vs-tennessee-titans-highlights",
+          10
+        ]
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "indianapolis-colts",
+      "location": "Indianapolis",
+      "name": "Colts",
+      "nickname": "Colts",
+      "abbreviation": "IND",
+      "displayName": "Indianapolis Colts",
+      "shortDisplayName": "Colts",
+      "color": "003b75",
+      "alternateColor": "ffffff",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+      "record": "2-0",
+      "standingSummary": "1st in AFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.66269,
+        "chanceToWinDivision": 0.569,
+        "projectedWins": 9.775,
+        "projectedLosses": 7.169
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall11.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          11
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall11.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          11
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall11.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          11
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall11.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          11
+        ],
+        [
+          "250b9e6f134e3",
+          "static/images/logosmall11.png",
+          "Payton laments FG block attempt that led to leverage penalty",
+          "Broncos coach Sean Payton said game officials made \"the correct call\" on a Denver penalty during a 60-yard field goal attempt, a penalty that gave the Colts a second chance at the game winner on the last play of a 29-28 Broncos loss.",
+          "https://www.espn.com/nfl/story/_/id/46271837/payton-laments-fg-block-attempt-led-leverage-penalty",
+          11
+        ],
+        [
+          "8716c9f11e6e3",
+          "static/images/logosmall11.png",
+          "My First Bet: Colts stay hot; Bears and Commanders among Week 3 covers that stand out",
+          "What immediately grabbed our attention once odds came out for Week 3? Here are early bets that stand out.",
+          "https://www.espn.com/espn/betting/story/_/id/46269160/2025-nfl-week-3-games-betting-odds-props-early-pick-predictions-first-bet",
+          11
+        ]
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "kansas-city-chiefs",
+      "location": "Kansas City",
+      "name": "Chiefs",
+      "nickname": "Chiefs",
+      "abbreviation": "KC",
+      "displayName": "Kansas City Chiefs",
+      "shortDisplayName": "Chiefs",
+      "color": "e31837",
+      "alternateColor": "ffb612",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "record": "0-2",
+      "standingSummary": "4th in AFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.66601,
+        "chanceToWinDivision": 0.146,
+        "projectedWins": 8.732,
+        "projectedLosses": 8.212
+      },
+      "standings": [],
+      "news": [
+        [
+          "896e67ad4de7b",
+          "static/images/logosmall12.png",
+          "Jordan Mailata on chatter Eagles won due to tush push: 'Rubbish'",
+          "Eagles left tackle Jordan Mailata has had enough of the media narrative that his team won Sunday's Super Bowl rematch against the Chiefs because of the tush push.",
+          "https://www.espn.com/nfl/story/_/id/46285616/jordan-mailata-chatter-eagles-won-due-tush-push-rubbish",
+          12
+        ],
+        [
+          "fc345c4044eda",
+          "static/images/logosmall12.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          12
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall12.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          12
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall12.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          12
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall12.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          12
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall12.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          12
+        ]
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "las-vegas-raiders",
+      "location": "Las Vegas",
+      "name": "Raiders",
+      "nickname": "Raiders",
+      "abbreviation": "LV",
+      "displayName": "Las Vegas Raiders",
+      "shortDisplayName": "Raiders",
+      "color": "000000",
+      "alternateColor": "a5acaf",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.38788,
+        "chanceToWinDivision": 0.039,
+        "projectedWins": 7.387,
+        "projectedLosses": 9.557
+      },
+      "standings": [],
+      "news": [
+        [
+          "23402360e8e74",
+          "static/images/logosmall13.png",
+          "NFL says Tom Brady didn't violate rules in Raiders booth",
+          "Tom Brady did not violate any NFL rules by wearing a headset in the Raiders' coaching booth during Monday night's game, the NFL announced.",
+          "https://www.espn.com/nfl/story/_/id/46282601/nfl-says-tom-brady-violate-rules-raiders-booth",
+          13
+        ],
+        [
+          "e3e699ff8b132",
+          "static/images/logosmall13.png",
+          "Tom Brady shown in Raiders booth wearing headset during MNF",
+          "Raiders minority owner Tom Brady was seen wearing a headset in the team's coaching booth during Monday's game vs. the Chargers.",
+          "https://www.espn.com/nfl/story/_/id/46276421/tom-brady-shown-raiders-booth-wearing-headset-mnf",
+          13
+        ],
+        [
+          "7cadc53e39176",
+          "static/images/logosmall13.png",
+          "Why Stephen A. has no issue with Tom Brady in Raiders' booth",
+          "Stephen A. Smith explains why he has no issue with Tom Brady being in the Raiders' coaching booth for their game against the Chargers on Monday night.",
+          "https://www.espn.com/video/clip?id=46280700",
+          13
+        ],
+        [
+          "23d4aff375209",
+          "static/images/logosmall13.png",
+          "Raiders QB Geno Smith's aggressive throwing leads to 3 INTs",
+          "Geno Smith threw for three interceptions and no touchdowns in Monday night's loss to the Chargers, earning the Raiders QB a passer rating of 37.",
+          "https://www.espn.com/nfl/story/_/id/46278772/raiders-qb-geno-smith-aggressive-throwing-leads-3-ints",
+          13
+        ],
+        [
+          "4e860827056c2",
+          "static/images/logosmall13.png",
+          "Is there a conflict of interest in Tom Brady's dual role in the NFL?",
+          "Jason McCourty and Jeff Saturday discuss the type of information Tom Brady receives as a broadcaster and how that looks in his ownership role with the Raiders.",
+          "https://www.espn.com/video/clip?id=46279449",
+          13
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall13.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          13
+        ]
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "los-angeles-rams",
+      "location": "Los Angeles",
+      "name": "Rams",
+      "nickname": "Rams",
+      "abbreviation": "LAR",
+      "displayName": "Los Angeles Rams",
+      "shortDisplayName": "Rams",
+      "color": "003594",
+      "alternateColor": "ffd100",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.42435999999999996,
+        "chanceToWinDivision": 0.368,
+        "projectedWins": 10.425,
+        "projectedLosses": 6.513
+      },
+      "standings": [],
+      "news": [
+        [
+          "b7bd3557c9211",
+          "static/images/logosmall14.png",
+          "Rams' Sean McVay tore plantar fascia during Week 2 victory",
+          "Head coach Sean McVay says he tore his plantar fascia on the sideline while coaching the Rams to victory over the Titans on Sunday.",
+          "https://www.espn.com/nfl/story/_/id/46282335/rams-sean-mcvay-tore-plantar-fascia-week-2-victory",
+          14
+        ],
+        [
+          "fc345c4044eda",
+          "static/images/logosmall14.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          14
+        ],
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall14.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          14
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall14.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          14
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall14.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          14
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall14.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          14
+        ]
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "miami-dolphins",
+      "location": "Miami",
+      "name": "Dolphins",
+      "nickname": "Dolphins",
+      "abbreviation": "MIA",
+      "displayName": "Miami Dolphins",
+      "shortDisplayName": "Dolphins",
+      "color": "008e97",
+      "alternateColor": "fc4c02",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+      "record": "0-2",
+      "standingSummary": "3rd in AFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.23494000000000004,
+        "chanceToWinDivision": 0.009,
+        "projectedWins": 5.817,
+        "projectedLosses": 11.131
+      },
+      "standings": [],
+      "news": [
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall15.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          15
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall15.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          15
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall15.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          15
+        ],
+        [
+          "1e31e1206bd7a",
+          "static/images/logosmall15.png",
+          "Tom Brady to play with NFL stars in Saudi flag football tourney",
+          "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\"",
+          "https://www.espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+          15
+        ],
+        [
+          "265ab8f836163",
+          "static/images/logosmall15.png",
+          "Rich Eisen sounds off on Dolphins' poor start",
+          "Rich Eisen rips into the Dolphins following their winless start to the NFL season.",
+          "https://www.espn.com/video/clip?id=46272132",
+          15
+        ],
+        [
+          "168ebc9b36309",
+          "static/images/logosmall15.png",
+          "Schefter to McAfee: Dolphins not in conversations to trade Tyreek Hill",
+          "Adam Schefter tells Pat McAfee the Dolphins were not in conversations to trade Tyreek Hill as of last week.",
+          "https://www.espn.com/video/clip?id=46271728",
+          15
+        ]
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "minnesota-vikings",
+      "location": "Minnesota",
+      "name": "Vikings",
+      "nickname": "Vikings",
+      "abbreviation": "MIN",
+      "displayName": "Minnesota Vikings",
+      "shortDisplayName": "Vikings",
+      "color": "4f2683",
+      "alternateColor": "ffc62f",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+      "record": "1-1",
+      "standingSummary": "2nd in NFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.5697300000000001,
+        "chanceToWinDivision": 0.059,
+        "projectedWins": 7.517,
+        "projectedLosses": 9.429
+      },
+      "standings": [],
+      "news": [
+        [
+          "62375c3067084",
+          "static/images/logosmall16.png",
+          "Vikings agree to terms with QB Desmond Ridder",
+          "The Vikings agreed to terms with free agent quarterback Desmond Ridder on Tuesday, giving them a third healthy QB with J.J. McCarthy sidelined due to a high right ankle sprain.",
+          "https://www.espn.com/nfl/story/_/id/46284401/vikings-agree-terms-qb-desmond-ridder",
+          16
+        ],
+        [
+          "fc345c4044eda",
+          "static/images/logosmall16.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          16
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall16.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          16
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall16.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          16
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall16.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          16
+        ],
+        [
+          "2db7c63245200",
+          "static/images/logosmall16.png",
+          "Sources: Vikings QB J.J. McCarthy expected to miss 2-4 weeks",
+          "Vikings QB J.J. McCarthy is expected to miss two to four weeks with a high ankle sprain, sources told ESPN, and Carson Wentz is expected to start in his place.",
+          "https://www.espn.com/nfl/story/_/id/46272477/vikings-qb-jj-mccarthy-likely-week-3-ankle-injury",
+          16
+        ]
+      ]
+    },
+    {
+      "id": "17",
+      "slug": "new-england-patriots",
+      "location": "New England",
+      "name": "Patriots",
+      "nickname": "Patriots",
+      "abbreviation": "NE",
+      "displayName": "New England Patriots",
+      "shortDisplayName": "Patriots",
+      "color": "002a5c",
+      "alternateColor": "c60c30",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.48594000000000004,
+        "chanceToWinDivision": 0.099,
+        "projectedWins": 8.302,
+        "projectedLosses": 8.644
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall17.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          17
+        ],
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall17.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          17
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall17.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          17
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall17.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          17
+        ],
+        [
+          "cca232a3dbbf4",
+          "static/images/logosmall17.png",
+          "Patriots' Drake Maye shows clear improvement in win at Miami",
+          "After a mixed-bag performance in Week 1, Maye led the Patriots to their first win of the season in Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46262947/patriots-qb-drake-maye-improvement-win-dolphins",
+          17
+        ],
+        [
+          "814c4c75995af",
+          "static/images/logosmall17.png",
+          "Maye accounts for 3 TDs and Patriots top Dolphins 33-27 for Vrabel's 1st win as New England coach",
+          "\u2014 Antonio Gibson burst through the Miami Dolphins' coverage unit on a kick return and dived into the end zone while New England coach Mike Vrabel excitedly chased him almost the entire way down the Patriots' sideline.",
+          "http://www.espn.com/nfl/recap?gameId=401772728",
+          17
+        ]
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "new-orleans-saints",
+      "location": "New Orleans",
+      "name": "Saints",
+      "nickname": "Saints",
+      "abbreviation": "NO",
+      "displayName": "New Orleans Saints",
+      "shortDisplayName": "Saints",
+      "color": "d3bc8d",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+      "record": "0-2",
+      "standingSummary": "3rd in NFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.35140000000000005,
+        "chanceToWinDivision": 0.033,
+        "projectedWins": 5.929,
+        "projectedLosses": 11.019
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall18.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          18
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall18.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          18
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall18.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          18
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall18.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          18
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall18.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          18
+        ],
+        [
+          "74f8f56ef27bc",
+          "static/images/logosmall18.png",
+          "Saints look for positives despite first 0-2 start since 2017",
+          "Despite another loss, Saints QB Spencer Rattler believes the offense is close to jelling for coach Kellen Moore.",
+          "https://www.espn.com/nfl/story/_/id/46264410/new-orleans-saints-positives-winless-start-2025",
+          18
+        ]
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "new-york-giants",
+      "location": "New York",
+      "name": "Giants",
+      "nickname": "Giants",
+      "abbreviation": "NYG",
+      "displayName": "New York Giants",
+      "shortDisplayName": "Giants",
+      "color": "003c7f",
+      "alternateColor": "c9243f",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+      "record": "0-2",
+      "standingSummary": "4th in NFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.33667,
+        "chanceToWinDivision": 0.01,
+        "projectedWins": 5.698,
+        "projectedLosses": 11.251
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall19.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          19
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall19.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          19
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall19.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          19
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall19.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          19
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall19.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          19
+        ],
+        [
+          "5e0d2b587d503",
+          "static/images/logosmall19.png",
+          "NFL Week 2 'Himmy' Award winner: Goff, Aubrey, Warner or Nabers",
+          "Brandon Aubrey won the fan-voted 'Himmy' Award for Week 2's top player over for Jared Goff, Fred Warner and Malik Nabers.",
+          "https://www.espn.com/nfl/story/_/id/46271588/himmy-awards-week-2-jared-goff-brandon-aubrey-fred-warner-malik-nabers",
+          19
+        ]
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "new-york-jets",
+      "location": "New York",
+      "name": "Jets",
+      "nickname": "Jets",
+      "abbreviation": "NYJ",
+      "displayName": "New York Jets",
+      "shortDisplayName": "Jets",
+      "color": "115740",
+      "alternateColor": "ffffff",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+      "record": "0-2",
+      "standingSummary": "3rd in AFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.30152999999999996,
+        "chanceToWinDivision": 0.009,
+        "projectedWins": 5.959,
+        "projectedLosses": 10.988
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall20.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          20
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall20.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          20
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall20.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          20
+        ],
+        [
+          "1e31e1206bd7a",
+          "static/images/logosmall20.png",
+          "Tom Brady to play with NFL stars in Saudi flag football tourney",
+          "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\"",
+          "https://www.espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+          20
+        ],
+        [
+          "22b82c295ccd1",
+          "static/images/logosmall20.png",
+          "NFL Week 2's quote quiz: From real answers to surprising sayings",
+          "The second week of the NFL season offered some bold quotes and forthright speakers. Put your knowledge to the test with our Week 2 quote quiz.",
+          "https://www.espn.com/nfl/story/_/id/46264405/who-said-nfl-week-2-2025-best-quotes-quiz",
+          20
+        ],
+        [
+          "dbe73c50deae9",
+          "static/images/logosmall20.png",
+          "Jets to prep plan for QB Tyrod Taylor in case Justin Fields out",
+          "With quarterback Justin Fields in the NFL's concussion protocol, the Jets are preparing for the possibility of starting Tyrod Taylor against the Buccaneers.",
+          "https://www.espn.com/nfl/story/_/id/46270420/jets-prep-plan-qb-tyrod-taylor-case-justin-fields-out",
+          20
+        ]
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "philadelphia-eagles",
+      "location": "Philadelphia",
+      "name": "Eagles",
+      "nickname": "Eagles",
+      "abbreviation": "PHI",
+      "displayName": "Philadelphia Eagles",
+      "shortDisplayName": "Eagles",
+      "color": "06424d",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.57902,
+        "chanceToWinDivision": 0.631,
+        "projectedWins": 10.736,
+        "projectedLosses": 6.208
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall21.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          21
+        ],
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall21.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          21
+        ],
+        [
+          "6fcd4b794a906",
+          "static/images/logosmall21.png",
+          "Greeny calls tush push an 'abomination'",
+          "Mike Greenberg and Dan Graziano don't hold back when expressing their disdain for the tush push.",
+          "https://www.espn.com/video/clip?id=46279854",
+          21
+        ],
+        [
+          "eaf5c039383c1",
+          "static/images/logosmall21.png",
+          "How farming and family forged Eagles center Cam Jurgens",
+          "Cam Jurgens led the Eagles to a Super Bowl title while playing with a herniated disc. If that sounds tough, wait until you hear about his dad and a scraggly barn cat.",
+          "https://www.espn.com/nfl/story/_/id/46242673/philadelphia-eagles-cam-jurgens-super-bowl-champion-nebraska-farm",
+          21
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall21.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          21
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall21.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          21
+        ]
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "arizona-cardinals",
+      "location": "Arizona",
+      "name": "Cardinals",
+      "nickname": "Cardinals",
+      "abbreviation": "ARI",
+      "displayName": "Arizona Cardinals",
+      "shortDisplayName": "Cardinals",
+      "color": "a40227",
+      "alternateColor": "ffffff",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.51661,
+        "chanceToWinDivision": 0.143,
+        "projectedWins": 9.075,
+        "projectedLosses": 7.863
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall22.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          22
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall22.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          22
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall22.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          22
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall22.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          22
+        ],
+        [
+          "2e10776171c55",
+          "static/images/logosmall22.png",
+          "Arizona Cardinals fend off Carolina Panthers for 2-0 start",
+          "A week after surviving a late-game push by New Orleans Saints, the Arizona Cardinals had to pull off a similar feat Sunday in their home opener against the Panthers, holding off Carolina 27-22 after racing out to 27-3 lead early in the third quarter.",
+          "https://www.espn.com/nfl/story/_/id/46264799/arizona-cardinals-fend-carolina-panthers-2-0-start",
+          22
+        ],
+        [
+          "13fd1746715a6",
+          "static/images/logosmall22.png",
+          "Calais Campbell's sack with 26 seconds left secures Cardinals' 27-22 win after Carolina comeback try",
+          "\u2014 Calais Campbell and his 39-year-old body came up with a game-ending sack to help the Arizona Cardinals secure a 27-22 win on Sunday over the Carolina Panthers, turning back a frantic...",
+          "http://www.espn.com/nfl/recap?gameId=401772730",
+          22
+        ]
+      ]
+    },
+    {
+      "id": "23",
+      "slug": "pittsburgh-steelers",
+      "location": "Pittsburgh",
+      "name": "Steelers",
+      "nickname": "Steelers",
+      "abbreviation": "PIT",
+      "displayName": "Pittsburgh Steelers",
+      "shortDisplayName": "Steelers",
+      "color": "000000",
+      "alternateColor": "ffb612",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.5179400000000001,
+        "chanceToWinDivision": 0.094,
+        "projectedWins": 7.904,
+        "projectedLosses": 9.04
+      },
+      "standings": [],
+      "news": [
+        [
+          "7c9be0e0dc364",
+          "static/images/logosmall23.png",
+          "Steelers likely to change returners after special teams gaffe",
+          "Steelers rookie Kaleb Johnson \"probably\" will not be returning kickoffs in Week 3 after his special teams gaffe in Sunday's loss to the Seahawks.",
+          "https://www.espn.com/nfl/story/_/id/46282848/steelers-likely-change-returners-special-teams-gaffe",
+          23
+        ],
+        [
+          "fc345c4044eda",
+          "static/images/logosmall23.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          23
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall23.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          23
+        ],
+        [
+          "e9316fb26a519",
+          "static/images/logosmall23.png",
+          "Highly paid Steelers defense seeks answers after Week 2 loss",
+          "Pittsburgh yields 31 points, 395 yards and a 100-yard rusher in loss to Seattle in its home opener.",
+          "https://www.espn.com/nfl/story/_/id/46265259/highly-paid-pittsburgh-steelers-defense-seeks-answers-week-2-loss",
+          23
+        ],
+        [
+          "b0730c5d1f936",
+          "static/images/logosmall23.png",
+          "Kaleb Johnson kickoff blunder helps Seahawks down Steelers",
+          "The Seahawks rallied to beat the Steelers on Sunday, with a pivotal miscue by rookie Kaleb Johnson -- who allowed a kickoff to bounce over his head and into the end zone that was ultimately recovered for a TD by Seattle --  proving costly.",
+          "https://www.espn.com/nfl/story/_/id/46260316/kaleb-johnson-kickoff-blunder-helps-seahawks-steelers",
+          23
+        ],
+        [
+          "8f29b78293b40",
+          "static/images/logosmall23.png",
+          "Judging biggest overreactions for NFL Week 2 games",
+          "Is the Lions' offense back? Do the Cowboys have playoff hopes? What's up with the Super Bowl duo? We sized up Week 2 overreactions.",
+          "https://www.espn.com/nfl/story/_/id/46258661/nfl-week-2-overreactions-surprises-takeaways-cowboys-lions-eagles-chiefs",
+          23
+        ]
+      ]
+    },
+    {
+      "id": "24",
+      "slug": "los-angeles-chargers",
+      "location": "Los Angeles",
+      "name": "Chargers",
+      "nickname": "Chargers",
+      "abbreviation": "LAC",
+      "displayName": "Los Angeles Chargers",
+      "shortDisplayName": "Chargers",
+      "color": "0080c6",
+      "alternateColor": "ffc20e",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+      "record": "2-0",
+      "standingSummary": "1st in AFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.56043,
+        "chanceToWinDivision": 0.605,
+        "projectedWins": 10.823,
+        "projectedLosses": 6.125
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall24.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          24
+        ],
+        [
+          "50d2447130c6c",
+          "static/images/logosmall24.png",
+          "Derwin James Jr. tells McAfee that Jim Harbaugh is 'one of a kind'",
+          "Derwin James Jr. joins \"The Pat McAfee Show\" to talk about his appreciation for Chargers head coach Jim Harbaugh.",
+          "https://www.espn.com/video/clip?id=46282666",
+          24
+        ],
+        [
+          "bab34ed0c8618",
+          "static/images/logosmall24.png",
+          "Derwin James Jr. to McAfee: Jesse Minter is best defensive coach in NFL",
+          "Chargers safety Derwin James Jr. tells Pat McAfee that he credits his defensive versatility to Jesse Minter, calling him the best defensive coach in the NFL.",
+          "https://www.espn.com/video/clip?id=46282617",
+          24
+        ],
+        [
+          "dc9bdff61c081",
+          "static/images/logosmall24.png",
+          "Hurts, Herbert make gains in Madden NFL 26's first ratings update",
+          "The quarterback standings have been shaken up a bit in the latest ratings update for Madden NFL 26.",
+          "https://www.espn.com/gaming/story/_/id/46279961/madden-nfl-26-ratings-update-jalen-hurts-justin-herbert",
+          24
+        ],
+        [
+          "23d4aff375209",
+          "static/images/logosmall24.png",
+          "Raiders QB Geno Smith's aggressive throwing leads to 3 INTs",
+          "Geno Smith threw for three interceptions and no touchdowns in Monday night's loss to the Chargers, earning the Raiders QB a passer rating of 37.",
+          "https://www.espn.com/nfl/story/_/id/46278772/raiders-qb-geno-smith-aggressive-throwing-leads-3-ints",
+          24
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall24.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          24
+        ]
+      ]
+    },
+    {
+      "id": "25",
+      "slug": "san-francisco-49ers",
+      "location": "San Francisco",
+      "name": "49ers",
+      "nickname": "49ers",
+      "abbreviation": "SF",
+      "displayName": "San Francisco 49ers",
+      "shortDisplayName": "49ers",
+      "color": "aa0000",
+      "alternateColor": "b3995d",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.48727,
+        "chanceToWinDivision": 0.422,
+        "projectedWins": 10.703,
+        "projectedLosses": 6.239
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall25.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          25
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall25.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          25
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall25.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          25
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall25.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          25
+        ],
+        [
+          "1e31e1206bd7a",
+          "static/images/logosmall25.png",
+          "Tom Brady to play with NFL stars in Saudi flag football tourney",
+          "Tom Brady announced Monday that he has teamed up with Fanatics, Fox Sports and OBB Media for the \"The Fanatics Flag Football Classic.\"",
+          "https://www.espn.com/nfl/story/_/id/46274487/tom-brady-play-nfl-stars-saudi-flag-football-tourney",
+          25
+        ],
+        [
+          "5e0d2b587d503",
+          "static/images/logosmall25.png",
+          "NFL Week 2 'Himmy' Award winner: Goff, Aubrey, Warner or Nabers",
+          "Brandon Aubrey won the fan-voted 'Himmy' Award for Week 2's top player over for Jared Goff, Fred Warner and Malik Nabers.",
+          "https://www.espn.com/nfl/story/_/id/46271588/himmy-awards-week-2-jared-goff-brandon-aubrey-fred-warner-malik-nabers",
+          25
+        ]
+      ]
+    },
+    {
+      "id": "26",
+      "slug": "seattle-seahawks",
+      "location": "Seattle",
+      "name": "Seahawks",
+      "nickname": "Seahawks",
+      "abbreviation": "SEA",
+      "displayName": "Seattle Seahawks",
+      "shortDisplayName": "Seahawks",
+      "color": "002a5c",
+      "alternateColor": "69be28",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+      "record": "1-1",
+      "standingSummary": "4th in NFC West",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.6514,
+        "chanceToWinDivision": 0.067,
+        "projectedWins": 8.257,
+        "projectedLosses": 8.68
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall26.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          26
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall26.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          26
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall26.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          26
+        ],
+        [
+          "b0730c5d1f936",
+          "static/images/logosmall26.png",
+          "Kaleb Johnson kickoff blunder helps Seahawks down Steelers",
+          "The Seahawks rallied to beat the Steelers on Sunday, with a pivotal miscue by rookie Kaleb Johnson -- who allowed a kickoff to bounce over his head and into the end zone that was ultimately recovered for a TD by Seattle --  proving costly.",
+          "https://www.espn.com/nfl/story/_/id/46260316/kaleb-johnson-kickoff-blunder-helps-seahawks-steelers",
+          26
+        ],
+        [
+          "02718f558cbb7",
+          "static/images/logosmall26.png",
+          "QB Sam Darnold shows Steelers what Seahawks offense can do",
+          "The QB ran a balanced offense on Sunday against the Steelers, a near-perfect execution of Kubiak's system.",
+          "https://www.espn.com/nfl/story/_/id/46264682/seattle-seahawks-qb-sam-darnold-offense-roll-vs-pittsburgh-steelers",
+          26
+        ],
+        [
+          "20a35e0a70773",
+          "static/images/logosmall26.png",
+          "Eagles' petty posts aimed at Chiefs top NFL Week 2 trolls",
+          "The San Francisco 49ers also made sure to poke fun at the New Orleans Saints after winning on the road, leading Week 2's NFL trolls.",
+          "https://www.espn.com/nfl/story/_/id/46261415/nfl-week-2-trolls",
+          26
+        ]
+      ]
+    },
+    {
+      "id": "27",
+      "slug": "tampa-bay-buccaneers",
+      "location": "Tampa Bay",
+      "name": "Buccaneers",
+      "nickname": "Buccaneers",
+      "abbreviation": "TB",
+      "displayName": "Tampa Bay Buccaneers",
+      "shortDisplayName": "Buccaneers",
+      "color": "bd1c36",
+      "alternateColor": "3e3a35",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+      "record": "2-0",
+      "standingSummary": "1st in NFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.70087,
+        "chanceToWinDivision": 0.749,
+        "projectedWins": 10.648,
+        "projectedLosses": 6.302
+      },
+      "standings": [],
+      "news": [
+        [
+          "5dbda1dbb3004",
+          "static/images/logosmall27.png",
+          "Sources: Bucs' Calijah Kancey tore pec, to miss rest of season",
+          "Buccaneers DT Calijah Kancey has a torn pec and will undergo season-ending surgery Friday, sources told ESPN's Adam Schefter.",
+          "https://www.espn.com/nfl/story/_/id/46282656/bucs-calijah-kancey-tore-pec-miss-rest-season",
+          27
+        ],
+        [
+          "f3a3e4d93fc2b",
+          "static/images/logosmall27.png",
+          "Why Mark Schlereth loves Baker Mayfield's journey in the NFL",
+          "Mark Schlereth joins the \"The Rich Eisen Show\" to express how impressed he is with Baker Mayfield's career progression.",
+          "https://www.espn.com/video/clip?id=46283285",
+          27
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall27.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          27
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall27.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          27
+        ],
+        [
+          "a4ba9b1b95f0b",
+          "static/images/logosmall27.png",
+          "Baker Mayfield and Rachaad White rally Bucs to 20-19 win over Texans",
+          "\u2014 Two years ago, the Tampa Bay Buccaneers lost to the Houston Texans on a touchdown in the final seconds.",
+          "http://www.espn.com/nfl/recap?gameId=401772715",
+          27
+        ],
+        [
+          "013e1f8da0acf",
+          "static/images/logosmall27.png",
+          "Baker Mayfield leads late drive as Buccaneers stun Texans",
+          "Tampa Bay put together an 11-play drive to steal the win, with Rachaad White punching in the winner.",
+          "https://www.espn.com/nfl/story/_/id/46274741/texans-buccaneers-mayfield-late-drive-stroud",
+          27
+        ]
+      ]
+    },
+    {
+      "id": "28",
+      "slug": "washington-commanders",
+      "location": "Washington",
+      "name": "Commanders",
+      "nickname": "Commanders",
+      "abbreviation": "WSH",
+      "displayName": "Washington Commanders",
+      "shortDisplayName": "Commanders",
+      "color": "5a1414",
+      "alternateColor": "ffb612",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+      "record": "1-1",
+      "standingSummary": "2nd in NFC East",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.61521,
+        "chanceToWinDivision": 0.227,
+        "projectedWins": 8.974,
+        "projectedLosses": 7.969
+      },
+      "standings": [],
+      "news": [
+        [
+          "fc345c4044eda",
+          "static/images/logosmall28.png",
+          "Why don't all teams use the unstoppable tush push? Here's why",
+          "The Eagles have converted the tush push 96.6% of the time on fourth-and-1, so why don't all teams use it? Here's why.",
+          "https://www.espn.com/nfl/story/_/id/46226517/nfl-eagles-chiefs-tush-push-brotherly-shove-jalen-hurts",
+          28
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall28.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          28
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall28.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          28
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall28.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          28
+        ],
+        [
+          "5b03938dabf68",
+          "static/images/logosmall28.png",
+          "NFL Week 2: Best team arrivals -- from Baker Mayfield to Lions mascot",
+          "The stars are back in the pregame tunnels strutting their stuff with fits tailored to their style.",
+          "https://www.espn.com/nfl/story/_/id/46225897/week-2-nfl-fashion-arrivals-2025",
+          28
+        ],
+        [
+          "8fe67a93ef74f",
+          "static/images/logosmall28.png",
+          "Commanders' Jayden Daniels has knee injury, status iffy",
+          "Commanders quarterback Jayden Daniels has a knee injury that has his status for Sunday's game against the Las Vegas Raiders in question.",
+          "https://www.espn.com/nfl/story/_/id/46272322/sources-commanders-jayden-daniels-knee-injury-status-iffy",
+          28
+        ]
+      ]
+    },
+    {
+      "id": "29",
+      "slug": "carolina-panthers",
+      "location": "Carolina",
+      "name": "Panthers",
+      "nickname": "Panthers",
+      "abbreviation": "CAR",
+      "displayName": "Carolina Panthers",
+      "shortDisplayName": "Panthers",
+      "color": "0085ca",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "record": "0-2",
+      "standingSummary": "3rd in NFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.43105000000000004,
+        "chanceToWinDivision": 0.03,
+        "projectedWins": 5.88,
+        "projectedLosses": 11.063
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall29.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          29
+        ],
+        [
+          "ddaa87c1f861c",
+          "static/images/logosmall29.png",
+          "Ranking backup NFL quarterbacks for the 2025 season",
+          "We stacked the best No. 2 -- and No. 3 -- quarterbacks across the league, including Browning, Marcus Mariota and Carson Wentz.",
+          "https://www.espn.com/nfl/story/_/id/46271838/top-nfl-backup-quarterback-rankings-2025-season-jake-browning",
+          29
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall29.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          29
+        ],
+        [
+          "7c47c6cbd67da",
+          "static/images/logosmall29.png",
+          "Carolina Panthers to place Robert Hunt, Austin Corbett on IR",
+          "The Carolina Panthers, 0-2 and preparing for Sunday's home opener, will place starting guard Robert Hunt and center Austin Corbett on injured reserve after each suffered a significant fourth-quarter injury in Sunday's 27-22 loss to the Arizona Cardinals.",
+          "https://www.espn.com/nfl/story/_/id/46272978/carolina-panthers-place-robert-hunt-austin-corbett-ir",
+          29
+        ],
+        [
+          "733f922e5585f",
+          "static/images/logosmall29.png",
+          "Hunt, Corbett injuries make Panthers' failed comeback sting more",
+          "Bryce Young posted career numbers Sunday, but the Panthers O-line took took some tough hits.",
+          "https://www.espn.com/nfl/story/_/id/46264207/nfl-carolina-panthers-bryce-young-austin-corbett-robert-hunt",
+          29
+        ],
+        [
+          "2e10776171c55",
+          "static/images/logosmall29.png",
+          "Arizona Cardinals fend off Carolina Panthers for 2-0 start",
+          "A week after surviving a late-game push by New Orleans Saints, the Arizona Cardinals had to pull off a similar feat Sunday in their home opener against the Panthers, holding off Carolina 27-22 after racing out to 27-3 lead early in the third quarter.",
+          "https://www.espn.com/nfl/story/_/id/46264799/arizona-cardinals-fend-carolina-panthers-2-0-start",
+          29
+        ]
+      ]
+    },
+    {
+      "id": "30",
+      "slug": "jacksonville-jaguars",
+      "location": "Jacksonville",
+      "name": "Jaguars",
+      "nickname": "Jaguars",
+      "abbreviation": "JAX",
+      "displayName": "Jacksonville Jaguars",
+      "shortDisplayName": "Jaguars",
+      "color": "007487",
+      "alternateColor": "d7a22a",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.5279,
+        "chanceToWinDivision": 0.295,
+        "projectedWins": 8.535,
+        "projectedLosses": 8.407
+      },
+      "standings": [],
+      "news": [
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall30.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          30
+        ],
+        [
+          "007daa897c401",
+          "static/images/logosmall30.png",
+          "Jaguars WR Brian Thomas Jr. hopes to shake rough start",
+          "The best rookie wide receiver in 2024 is struggling to get going in 2025.",
+          "https://www.espn.com/nfl/story/_/id/46276685/jacksonville-jaguars-wr-brian-thomas-jr-hopes-shake-rough-start",
+          30
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall30.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          30
+        ],
+        [
+          "8716c9f11e6e3",
+          "static/images/logosmall30.png",
+          "My First Bet: Colts stay hot; Bears and Commanders among Week 3 covers that stand out",
+          "What immediately grabbed our attention once odds came out for Week 3? Here are early bets that stand out.",
+          "https://www.espn.com/espn/betting/story/_/id/46269160/2025-nfl-week-3-games-betting-odds-props-early-pick-predictions-first-bet",
+          30
+        ],
+        [
+          "bf9af06d889e6",
+          "static/images/logosmall30.png",
+          "NFL Week 2: Wild comeback wins for Cowboys, Colts, Bengals",
+          "Bill Barnwell sorts through fourth-quarter fireworks in Giants-Cowboys, Broncos-Colts and Jaguars-Bengals.",
+          "https://www.espn.com/nfl/story/_/id/46258571/2025-nfl-week-2-barnwell-comeback-wins-cowboys-bengals-colts-giants-jaguars-broncos",
+          30
+        ],
+        [
+          "af2be11908e04",
+          "static/images/logosmall30.png",
+          "McCarthy vs. Penix Jr., Lawrence vs. Burrow: NFL Week 2 features two CFP title game QB rematches",
+          "Joe Burrow vs. Trevor Lawrence and J.J. McCarthy vs. Michael Penix Jr. are the latest NFL rematches of quarterbacks who once met in a college football national title game.",
+          "https://www.espn.com/nfl/story/_/id/46228675/nfl-week-2-national-championship-game-quarterback-rematch",
+          30
+        ]
+      ]
+    },
+    {
+      "id": "33",
+      "slug": "baltimore-ravens",
+      "location": "Baltimore",
+      "name": "Ravens",
+      "nickname": "Ravens",
+      "abbreviation": "BAL",
+      "displayName": "Baltimore Ravens",
+      "shortDisplayName": "Ravens",
+      "color": "29126f",
+      "alternateColor": "000000",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "record": "1-1",
+      "standingSummary": "2nd in AFC North",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.5757,
+        "chanceToWinDivision": 0.669,
+        "projectedWins": 11.012,
+        "projectedLosses": 5.946
+      },
+      "standings": [],
+      "news": [
+        [
+          "d6ddfdb9461be",
+          "static/images/logosmall33.png",
+          "MNF Trailer: Lions vs. Ravens",
+          "Get ready for \"Monday Night Football\" in Week 3, when the Lions travel to take on the Ravens.",
+          "https://www.espn.com/video/clip?id=46284107",
+          33
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall33.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          33
+        ],
+        [
+          "71bad2df98f4d",
+          "static/images/logosmall33.png",
+          "Is it too early to consider Lamar Jackson on an MVP arc?",
+          "This season, it seems like a touchdown could happen every time Jackson drops back to pass.",
+          "https://www.espn.com/nfl/story/_/id/46271851/baltimore-ravens-lamar-jackson-week-2-playing-mvp-pace",
+          33
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall33.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          33
+        ],
+        [
+          "d549c0ce944be",
+          "static/images/logosmall33.png",
+          "Source: Ravens' Kyle Van Noy bracing to miss multiple games",
+          "Ravens outside linebacker Kyle Van Noy is bracing to miss multiple games due to a hamstring injury he suffered Sunday, a source told ESPN's Jeremy Fowler.",
+          "https://www.espn.com/nfl/story/_/id/46272073/source-ravens-kyle-van-noy-bracing-miss-multiple-games",
+          33
+        ],
+        [
+          "b31ce4e6be5df",
+          "static/images/logosmall33.png",
+          "Stephen A.: Shedeur wanted to play, not to be Lamar's backup",
+          "Stephen A. Smith reacts to reports of Shedeur Sanders not wanting to go to the Ravens to be a backup for Lamar Jackson.",
+          "https://www.espn.com/video/clip?id=46270547",
+          33
+        ]
+      ]
+    },
+    {
+      "id": "34",
+      "slug": "houston-texans",
+      "location": "Houston",
+      "name": "Texans",
+      "nickname": "Texans",
+      "abbreviation": "HOU",
+      "displayName": "Houston Texans",
+      "shortDisplayName": "Texans",
+      "color": "00143f",
+      "alternateColor": "c41230",
+      "logos": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "record": "0-2",
+      "standingSummary": "3rd in AFC South",
+      "defForm": "",
+      "offForm": "",
+      "projections": {
+        "chanceToWinThisWeek": 0.4759,
+        "chanceToWinDivision": 0.12,
+        "projectedWins": 7.119,
+        "projectedLosses": 9.825
+      },
+      "standings": [],
+      "news": [
+        [
+          "6aef9ad28595e",
+          "static/images/logosmall34.png",
+          "Texans WR Christian Kirk (hamstring) to play against Jaguars",
+          "Christian Kirk, who has missed the first two Texans games of the season with a hamstring injury, is expected to return against the Jaguars, coach DeMeco Ryans said Tuesday.",
+          "https://www.espn.com/nfl/story/_/id/46283222/texans-wr-christian-kirk-hamstring-play-jaguars",
+          34
+        ],
+        [
+          "cb76a2f92b2c7",
+          "static/images/logosmall34.png",
+          "NFL Week 3 Power Rankings 2025: How all 32 teams stack up",
+          "It's time for new NFL Power Rankings after two weeks! We stacked the best teams and named the biggest QB takeaway for each roster.",
+          "https://www.espn.com/nfl/story/_/id/46273770/nfl-week-3-power-rankings-poll-32-teams-2025-quarterback-takeaways",
+          34
+        ],
+        [
+          "e5345016b48a7",
+          "static/images/logosmall34.png",
+          "NFL Week 2: Biggest questions, takeaways for every game",
+          "NFL Nation reporters react to all the action, answering the biggest questions coming out of each game. Here's what we learned from Week 2.",
+          "https://www.espn.com/nfl/story/_/id/46209485/nfl-week-2-2025-season-questions-takeaways-lessons-stats-recap-every-game",
+          34
+        ],
+        [
+          "a4ba9b1b95f0b",
+          "static/images/logosmall34.png",
+          "Baker Mayfield and Rachaad White rally Bucs to 20-19 win over Texans",
+          "\u2014 Two years ago, the Tampa Bay Buccaneers lost to the Houston Texans on a touchdown in the final seconds.",
+          "http://www.espn.com/nfl/recap?gameId=401772715",
+          34
+        ],
+        [
+          "013e1f8da0acf",
+          "static/images/logosmall34.png",
+          "Baker Mayfield leads late drive as Buccaneers stun Texans",
+          "Tampa Bay put together an 11-play drive to steal the win, with Rachaad White punching in the winner.",
+          "https://www.espn.com/nfl/story/_/id/46274741/texans-buccaneers-mayfield-late-drive-stroud",
+          34
+        ],
+        [
+          "05eaa7a976669",
+          "static/images/logosmall34.png",
+          "Tampa Bay Buccaneers vs. Houston Texans Game Highlights",
+          "Tampa Bay Buccaneers vs. Houston Texans Game Highlights",
+          "https://www.espn.com/video/clip?id=46275945",
+          34
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+
+* {
+    box-sizing: border-box; 
+}
+
+:focus {
+    outline: none; 
+    border: none; 
+}
+
+html, body {
+    font-family: var(--font);
+    font-size: 100%;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+    /*border: var(--border);*/
+    width: 100%;
+    background-color: var(--backgroundColor);
+    min-height: 100vh; /*was 100vh*/
+    display: flex;
+    flex-direction: column;
+}
+
+/*nav*/
+
+header {
+    /*border: 0px solid var(--darkColor);*/
+    background-color: var(--darkColor);
+    width: 100%;
+    transition: height 0.5s ease-in-out;
+}
+
+strong {
+    font-weight: 700;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: var(--back);
+    transition: .1s ease;
+    border-bottom: 2px solid red;
+    transition: height 0.5s ease-in-out;
+  }
+
+.topnav a {
+    float: left;
+    display: none;
+    color: var(--backgroundColor);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: .9em;
+    transition: .1s ease;
+  }
+
+  .topnav a:first-child {
+    display: block;
+  }
+  
+.topnav .icon {
+    float: right;
+    display: block;
+    transition: .1s ease;
+  }
+.topnav.responsive {
+    position: relative;
+}
+    
+.topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+    
+.topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+}
+
+/*footer*/
+
+footer {
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: var(--darkColor);
+    border-top: 2px solid red;
+    font-size: 0.75rem;
+    color: var(--backgroundColor);
+    margin-top: auto;
+}

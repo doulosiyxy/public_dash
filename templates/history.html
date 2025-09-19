@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}History - {% endblock %}
+
+{% block content %}
+
+<div id="history" class="main-wrapper">
+    <h1>Prediction History</h1>
+    <div id="charts">
+        {% for season, chart_data in data.items() %}
+        <h2>{{ season }}</h2>
+        <div class="chart-row">
+            <div class="card">
+                <h3>Games</h3>
+                <div class="chart-container">
+                    <canvas id="histChart_{{ season }}"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <h3>Percentage</h3>
+                <p id="percentTotal_{{ season }}"></p>
+                <div class="chart-container">
+                    <canvas id="percentChart_{{ season }}"></canvas>
+                </div>
+            </div>
+            <div class="card">
+                <h3>Table</h3>
+                <div class="chart-container hist-table">
+                    {% include '_history_tbl_rows.html' %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<script>
+    const allChartData = JSON.parse('{{ data | tojson }}');
+    document.addEventListener('DOMContentLoaded', function () {
+        for (const [season, chart_data] of Object.entries(allChartData)) {
+            getBarChart(season, chart_data);
+        }
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        for (const [season, chart_data] of Object.entries(allChartData)) {
+            getPercentChart(season, chart_data);
+        }
+    });
+</script>
+<script src="{{ url_for('static', filename='js/chart_scripts.js') }}"></script>
+
+{% endblock %}

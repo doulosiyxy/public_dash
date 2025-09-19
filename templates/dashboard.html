@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - {% endblock %}
+
+{% block content %}
+
+<div class="main-wrapper">
+  <main class="dash">
+    <section class="dash dash-record">
+      <h1 class="dash-title">Record</h1>
+      {% include '_record.html' %}
+    </section>
+    <section class="dash dash-standings">
+      <h1 class="dash-title">Standings</h1>
+      {% include '_standings_table.html' %}
+    </section>
+    <section class="dash dash-predictions">
+      {% include '_predictions.html' %}
+    </section>
+    <section class="dash dash-news">
+      <h1 class="dash-title">News</h1>
+      {% include '_news.html' %}
+    </section>
+    <section class="dash dash-predictor">
+      <h1 class="dash-title">Predictor</h1>
+      {% include '_predictor_chart.html' %}
+      {% include '_predictor_table.html' %}
+      {% include '_predictor_btns.html' %}
+    </section>
+  </main>
+</div>
+
+{% endblock %}

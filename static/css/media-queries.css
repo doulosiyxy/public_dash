@@ -1,0 +1,124 @@
+@media screen and (max-width: 1200px) {
+
+    body {
+        font-size: 80%;
+    }
+
+    main.dash {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(4, auto);
+        grid-template-areas:
+  "predictions predictions predictor"
+  "predictions predictions news"
+  "predictions predictions news"
+  "record standings standings";
+        padding: 1px;
+        justify-content: center;
+        gap: 0;
+        row-gap: 3px;
+        gap: 5px;
+        padding: 1%;
+    }
+
+    .dash-record {
+        grid-area: record;
+    }
+    
+    .dash-predictions {
+        grid-area: predictions;
+    }
+    
+    .dash-news {
+        grid-area: news;
+    }
+
+    .dash-standings {
+        grid-area: standings;
+    }
+    
+    .dash-predictor {
+        grid-area: predictor;
+    }
+
+    .grid-item span {
+        font-size: .8em;
+    }
+}
+
+@media screen and (max-width: 1056px) {
+
+    body {
+        font-size: 80%;
+    }
+
+    main.dash {
+        grid-template-columns: 100%;
+        grid-template-rows: repeat(5, auto);
+        grid-template-areas:
+  "record"
+  "predictions"
+  "predictor"
+  "news"
+  "standings";
+        padding: 1px;
+        justify-content: center;
+        gap: 0;
+        row-gap: 3px;
+    }
+
+    .dash-record {
+        grid-area: record;
+    }
+    
+    .dash-predictions {
+        grid-area: predictions;
+    }
+    
+    .dash-news {
+        grid-area: news;
+    }
+
+    .dash-standings {
+        grid-area: standings;
+    }
+    
+    .dash-predictor {
+        grid-area: predictor;
+    }
+
+    .grid-item span {
+        font-size: .8em;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .grid-item span {
+        font-size: .3em;
+    }
+}
+
+@media screen and (max-width: 567px) {
+    .grid-item span {
+        font-size: 3px;
+    }
+}
+
+@media screen and (min-height: 986px) and (min-width: 1201px) {
+    .main-wrapper {
+       height: 100vh;
+       width: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+}
+
+@media screen and (min-height: 1449px){
+    .main-wrapper {
+       height: 100vh;
+       width: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+}

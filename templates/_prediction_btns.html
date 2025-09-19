@@ -1,0 +1,19 @@
+<div class="dash-btn-container">
+    <div class="dash-btn"><i title="Saved?" class="saved fa fa-check-circle" data-name="{{data['isSaved']}}"></i>
+    </div>
+    <div class="dash-btn"><span class="weather">{{data['weather']['temp']}}<sup>&deg;</sup>F</span></div>
+    <div class="dash-btn"><span title="{{data['weather']['description']}}"
+            class="wi wi-wu-{{data['weather']['description'] | replace(' ', '') | lower}}"></span></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div class="dash-btn prev-btn"><i class="fa fa-chevron-left"></i></div>
+    <div id="dash-btn-placeholder"></div>
+    <div class="dash-btn info-btn"><i class="fa fa-info-circle"></i></div>
+    <div class="dash-btn swap-btn"><i class="fa fa-refresh"></i></div>
+    <div class="dash-btn next-btn"><i class="fa fa-chevron-right"></i></div>
+</div>

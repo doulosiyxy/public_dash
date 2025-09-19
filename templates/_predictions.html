@@ -1,0 +1,21 @@
+<div class="prediction-title-wrapper">
+    <img class="prediction-title-logo prediction-title-logo-one" src="{{data['teamOneLogo']}}">
+    <h1 class="dash-title week-no">{{data['week']}}: {{data['game']}}</h1>
+    <img class="prediction-title-logo prediction-title-logo-two" src="{{data['teamTwoLogo']}}">
+</div>
+<div class="diagram-wrapper">
+    {{data['alert'] | safe}}
+    {% include '_instructions.html' %}
+    <div class="feedback alert-hide"></div>
+    <div class="diagram-team-def" style='background: {{  data["teamOneColor"]}}'>
+        <img class="grid-item logo def-logo" src="{{data['teamOneLogo']}}" alt="{{data['teamOne']}} logo">
+        <h2 class="team-name def-name" data-name="{{data['teamOne']}}">{{data['teamOne']}} Defense</h2>
+    </div>
+    <div class="defense">{{data['defHtml']|safe}}</div>
+    <div class="offense">{{data['offHtml']|safe}}</div>
+    {% include '_prediction_btns.html' %}
+    <div class="diagram-team-off" style="background: {{ data['teamTwoColor']}}">
+        <h2 class="team-name off-name" data-name="{{data['teamTwo']}}">{{data['teamTwo']}} Offense</h2>
+        <img class="grid-item logo off-logo" src="{{data['teamTwoLogo']}}" alt="{{data['teamTwo']}} logo">
+    </div>
+</div>

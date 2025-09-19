@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Log in - {% endblock %}
+{% block nav %}{% endblock %}
+{% block content %}
+<main id="loginMain">
+  <div class="login-form-wrapper">
+    <form class="login-form" action="/login" method="post">
+      <h1 id="login">Log In</h1>
+      <input type="text" name="username" required placeholder="Username">
+      <input type="password" name="password" required placeholder="Password">
+      <br>
+      <button formaction="/login" type="submit">Let's Go!</button>
+      <p class="error">{{message}}</p>
+    </form>
+  </div>
+</main>
+
+{% endblock %}
