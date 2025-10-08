@@ -1,7 +1,7 @@
 #charts {
     width: 100%;
     height: auto;
-    padding: 5px 5px;
+    padding: 0.3125rem 0.3125rem;
     padding-bottom: 3rem;
 }
 
@@ -16,7 +16,7 @@
 }
 
 #charts h2 {
-    padding: 0px;
+    padding: 0;
     text-align: left;
     color: inherit;
     border-bottom: 1px dashed lightgray;
@@ -30,10 +30,10 @@
 
 .chart-row {
     width: 100%;
-    padding: 0.7em 0.7em 1.3em 0.7em;
+    padding: 0.7rem 0.7rem 1.3rem 0.7rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 0.7em;
+    grid-template-columns: repeat(auto-fit, minmax(18.75rem, 1fr));
+    gap: 0.7rem;
     border-bottom: 1px dashed lightgray;
 }
 
@@ -41,11 +41,11 @@
     display: inherit;
     justify-content: center; 
     align-items: center; 
-    height: 300px;
+    height: 18.75rem;
     position: relative;
     border: 1px solid lightgray;
-    padding: 0.5em;
-    border-radius: 10px;
+    padding: 0.5rem;
+    border-radius: 0.625rem;
     background-color: white;
     overflow: scroll;
     z-index: 1; 
@@ -57,8 +57,8 @@
 }
 
 .chart-container {
-    height:190px;
-    min-width: 250px;
+    height: 11.875rem;
+    min-width: 15.625rem;
     z-index: 1;
 }
 
